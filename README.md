@@ -1,5 +1,5 @@
 # nlw-originSix
-OriginSix Feito na semana NLW DE 2021 
+OriginSix Feito na semana NLW
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,8 +16,9 @@ OriginSix Feito na semana NLW DE 2021
 
 <br>
 
-<p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+
+![preview](https://user-images.githubusercontent.com/62854319/123562236-cd4d1280-d783-11eb-8670-43263fb12487.png)
+
 </p>
 
 
